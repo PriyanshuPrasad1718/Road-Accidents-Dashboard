@@ -1,5 +1,5 @@
 
-# Visualizing Accidents with PowerBI
+# Visualizing Road Accidents dataset with PowerBI
 
 Experience the power of data visualization with our innovative PowerBI dashboard, showcasing comprehensive insights into road accidents. Dive deep into interactive charts and maps to uncover patterns and trends.
 
